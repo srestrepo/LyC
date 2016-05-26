@@ -1,0 +1,41 @@
+﻿principal{
+    int a = 10;
+    int resultado;
+    
+    resultado = fibonacci(a);
+    
+    print(resultado);
+}
+
+int fibonacci(int a){
+    salir = 0;
+    if (a == 0){
+        b = 0;
+        salir = 1;
+    }
+    if (a == 1){
+        b = 1;
+        salir = 1;
+    }
+    if(salir == 0){
+        uno = 1;
+        dos = 2;
+        n = restar(a, uno);
+        m = restar(a, dos);
+        fn = fibonacci(n);
+        fm = fibonacci(m);
+        b = sumar(fn, fm);
+    }
+
+    return(b); 
+}
+
+int sumar(int a, b){
+    d = a + b;
+    return(d);
+}
+
+int restar(int a, b){
+    d = a - b;
+    return(d);
+}

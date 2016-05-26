@@ -1,0 +1,22 @@
+﻿principal{
+    int a = 10;
+    int resultado;
+    
+    resultado = factorial(a);
+    
+    print(resultado);
+}
+
+int factorial(int a){
+    int b = 1;
+    for(a=1; a<=10; a = a+1){
+        b = multiplicar(b, a);
+    }
+
+    return(b); 
+}
+
+int multiplicar(int a, b){
+    d = a * b;
+    return(d);
+}

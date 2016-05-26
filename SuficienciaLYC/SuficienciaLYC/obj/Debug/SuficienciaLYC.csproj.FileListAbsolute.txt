@@ -1,0 +1,8 @@
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\bin\Debug\SuficienciaLYC.exe.config
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\bin\Debug\SuficienciaLYC.exe
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\bin\Debug\SuficienciaLYC.pdb
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\bin\Debug\CalithaLib.dll
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\bin\Debug\GoldParserEngine.dll
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\obj\Debug\SuficienciaLYC.exe
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\obj\Debug\SuficienciaLYC.pdb
+c:\users\sergio.restrepo\documents\visual studio 2015\Projects\SuficienciaLYC\SuficienciaLYC\obj\Debug\SuficienciaLYC.csprojResolveAssemblyReference.cache
