@@ -10,4 +10,4 @@ Inlcuyen dos carpetas:
 
 
 - SuficienciaLYC contiene una solucion de Visual Studio que utiliza GOLD Parser para verificar la validez de un archivo de texto usando la gramatica propuesta
- - Uso: SuficienciaLYC.exe codigo.txt
+ - Uso: SuficienciaLYC.exe TestFileCorrecta.txt
